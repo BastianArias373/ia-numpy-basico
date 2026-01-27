@@ -1,0 +1,16 @@
+# Entornos virtuales
+ia/
+venv/
+env/
+Lib/
+Scripts/
+pyvenv.cfg
+share/
+etc/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
